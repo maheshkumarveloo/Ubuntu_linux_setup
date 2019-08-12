@@ -1,0 +1,17 @@
+
+1. install jre , 
+ what to install ?
+ when we give the command , java or java --version we get a list of jvm packages to install need to copy paste them.
+
+2. how to install cbt or C++ in eclipse
+-> go to windows , install software in eclipse 
+-> install C++ or CBT and reboot.
+
+3. how to resolve path not found or g++ build error ?
+-> update path in prefernce, build settings , path to /usr/bin/G++
+-> sudo install g++
+
+4. how to resolve make error ?
+install sudo install make 
+
+

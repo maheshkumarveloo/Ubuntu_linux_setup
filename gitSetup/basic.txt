@@ -1,0 +1,22 @@
+/*LearningLinks*/
+
+Install Git 
+
+sudo apt-get update
+sudo apt-get install git
+
+Set Up Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+
+sudo apt-get install git-gui
+
+## follow the commands after creating the repo  
+
+echo "# Ubuntu_linux_setup" >> README.md
+git init
+git add README.md
+git commit -m "first commit" ## prefer to use git gui.
+git remote add origin https://github.com/maheshkumarveloo/Ubuntu_linux_setup.git
+git push -u origin master
